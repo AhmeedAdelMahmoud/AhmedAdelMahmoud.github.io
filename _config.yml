@@ -9,13 +9,19 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ahmed Adel Mahmoud"
-title_separator          : "-"
-name                     : &name "Ahmed Adel Mahmoud"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# title                    : "Ahmed Adel Mahmoud"
+# title_separator          : "-"
+# name                     : &name "Ahmed Adel Mahmoud"
+# description              : &description "personal description"
+# url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# repository               : "academicpages/academicpages.github.io"
+title: "Ahmed Adel Mahmoud"
+name: &name "Ahmed Adel Mahmoud"
+description: &description "PhD researcher in quantum information and quantum error correction"
+url: "https://ahmeedadelmahmoud.github.io"
+baseurl: ""
+repository: "AhmeedAdelMahmoud/AhmeedAdelMahmoud.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
