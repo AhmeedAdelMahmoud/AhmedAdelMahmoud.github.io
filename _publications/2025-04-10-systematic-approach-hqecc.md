@@ -7,10 +7,10 @@ excerpt: "A systematic framework for constructing hyperbolic quantum error corre
 date: 2025-04-10
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2504.07800"
-citation: '@article{xu2025scalable,
-  title={A Scalable Superconducting Circuit Framework for Emulating Physics in Hyperbolic Space},
-  author={Xu, Xicheng and Mahmoud, Ahmed Adel and Gorgichuk, Noah and Thomale, Ronny and Rayan, Steven and Mariantoni, Matteo},
-  journal={arXiv preprint arXiv:2510.23827},
+citation: '@article{mahmoud2025systematic,
+  title={A systematic approach to hyperbolic quantum error correction codes},
+  author={Mahmoud, Ahmed Adel and Ali, Kamal Mohamed and Rayan, Steven},
+  journal={arXiv preprint arXiv:2504.07800},
   year={2025}
 }'
 ---
