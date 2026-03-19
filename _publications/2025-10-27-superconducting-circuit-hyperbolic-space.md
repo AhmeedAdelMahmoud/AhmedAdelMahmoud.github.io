@@ -1,7 +1,7 @@
 ---
 title: "A Scalable Superconducting Circuit Framework for Emulating Physics in Hyperbolic Space"
 collection: publications
-category: manuscripts
+category: Preprints
 permalink: /publication/2025-10-27-superconducting-circuit-hyperbolic-space
 excerpt: "A scalable superconducting-circuit platform for analogue quantum emulation of tight-binding models on hyperbolic and kagome-like lattices."
 date: 2025-10-27
