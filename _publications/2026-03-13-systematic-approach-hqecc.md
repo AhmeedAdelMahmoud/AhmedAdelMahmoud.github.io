@@ -1,5 +1,5 @@
 ---
-title: "A Systematic Approach to Hyperbolic Quantum Error Correction Codes"
+title: "Systematic Approach to Hyperbolic Quantum Error Correction Codes"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-10-systematic-approach-hqecc
