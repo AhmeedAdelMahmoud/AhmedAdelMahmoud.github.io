@@ -28,6 +28,10 @@ Research experience
 * July 2025 - August 2025: Visiting Researcher
   * Institute of Quantum Computing, University of Waterloo
   * The collaboration resulted in this paper: https://arxiv.org/abs/2510.23827
+
+* January 2025 - May 2025: Research Assistant
+  * Center for Quantum Topology and Its Applications (quanTA), University of Saskatchewan
+  * Supervisors: Steven Rayan
  
 * 2021 - 2023: Research Assistant
   * Center for Quantum Topology and Its Applications (quanTA), University of Saskatchewan
