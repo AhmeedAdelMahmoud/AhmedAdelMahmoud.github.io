@@ -36,19 +36,3 @@ Programming Skills
 * Python
 * Wolfram Mathematica
 * MATLAB
-
-Publications
-======
-TBD
-  
-Talks
-======
-TBD
-  
-Teaching
-======
-TBD
-  
-Service and leadership
-======
-* TBD
