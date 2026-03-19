@@ -11,6 +11,5 @@ citation: '@article{xu2025scalable,
   title={A Scalable Superconducting Circuit Framework for Emulating Physics in Hyperbolic Space},
   author={Xu, Xicheng and Mahmoud, Ahmed Adel and Gorgichuk, Noah and Thomale, Ronny and Rayan, Steven and Mariantoni, Matteo},
   journal={arXiv preprint arXiv:2510.23827},
-  year={2025}
-}'
+  year={2025}}'
 ---
